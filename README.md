@@ -1,105 +1,105 @@
-<h2>Hey 👋, I'm <strong>Belal Mohamed</strong></h2>
-<p>I'm a passionate <strong>Flutter Developer</strong> and a growing <strong>Front-End Engineer</strong> who builds clean UIs, smart systems, and real-world applications.  
-I’ve worked on multiple projects across Flutter, .NET MVC, SQL Server, UI/UX, and educational/automation systems.  
-Currently leveling up my skills, building my own developer community, and crafting production-level apps.</p>
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&logo=Firefox" alt="Portfolio Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Belal%20Mohamed-14c767?style=flat-square&logo=Medium" alt="Medium Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Belal%20Mohamed-0077B5?style=flat-square&logo=LinkedIn" alt="LinkedIn Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Belal%20Mohamed-0A0A0A?style=flat-square&logo=github" alt="Github Badge"></a>
-</p>
-
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
-
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🚀 Currently focusing on <strong>Flutter Development</strong> & React Front-End Engineering.</li>
-<li>🛠 Worked on **TrackWise.360**, an educational analytics system using Python, SQL Server, and .NET MVC.</li>
-<li>📱 Built multiple Flutter apps: Login UI, Shop App UI, Weather App, Smart Car Control, Smart City Booking System.</li>
-<li>💼 Designed full UI/UX for EVA Company chatbot, Nike website, and Smart City services.</li>
-<li>🔍 Interested in <strong>UI/UX, clean architecture, state management, and system design</strong>.</li>
-<li>📚 I also teach programming concepts and help others build tech projects.</li>
-<li>🎮 Fun Fact: I fix bugs faster with coffee ☕.</li>
-</ul>
-
----
-
-<h2>💼 Projects I Built</h2>
-
-### 🔹 **1. TrackWise.360 – Educational Analytics System**
-- Python + SQL Server  
-- .NET MVC for admin dashboard  
-- Student personality analysis (MBTI – DISC – Raven)  
-- Smart reports + career recommendations  
-
-### 🔹 **2. Smart City Booking System**
-- .NET MVC + SQL  
-- Booking for driving license services  
-- Data analysis dashboard  
-- Authentication + admin panel  
-
-### 🔹 **3. Flutter Login & Shop Application**
-- Provider state management  
-- Authentication UI  
-- Product list, details, cart  
-
-### 🔹 **4. Smart Car (Bluetooth Control)**
-- Flutter app  
-- Arduino + HC-05  
-- Real-time car movement  
-
-### 🔹 **5. Nike Website (Front-End Project)**
-- HTML, CSS, JavaScript  
-- Fully responsive UI  
-- Clean, modern design  
-
----
-
-<h2>🚀 Tech Stack</h2>
-
-<p align="left">
-<!-- Flutter -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="25" />
-
-<!-- React / Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" />
-
-<!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" />
-
-<!-- Database -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="25" />
-
-<!-- Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25" />
-</p>
-
----
-
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=BelalMohamed&show_icons=true&count_private=true" />
-
----
-
-<h2>📫 Connect With Me</h2>
-
-- 💼 LinkedIn: Coming soon  
-- 💙 Instagram: Coming soon  
-- 💻 GitHub: BelalMohamed  
-- 📧 Email: belal.dev@example.com  
-
----
+<h1 align="center">Hey 👋, I'm <strong>Belal Mohamed</strong></h1>
+<h3 align="center">Flutter Developer | Future Front-End Engineer | UI/UX Enthusiast</h3>
 
 <p align="center">
-⭐ If you like my work, don’t forget to give a star! ⭐
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 </p>
+
+---
+
+## 🚀 About Me  
+I'm a passionate **Flutter Developer** with a growing focus on **Front-End Engineering** and system design.  
+I love building **clean UIs**, **smart systems**, and **real-world applications** using modern technologies.
+
+- 🔭 Currently working on **Flutter + React**  
+- 🛠 Built real projects across **.NET, SQL Server, Python, UI/UX & Embedded Systems**  
+- 👨‍🏫 I mentor others in programming  
+- 🎯 My goal: Become a **Full Front-End Engineer**  
+- ☕ Fun fact: I fix bugs faster with coffee
+
+---
+
+## 🧠 Skills Overview  
+### 💻 **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+### 🛠 **Frameworks & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Projects
+### 🚀 **1. TrackWise.360 – Educational Analytics System**
+- Python + SQL Server  
+- .NET MVC Dashboard  
+- Smart student analysis (MBTI – DISC – Raven)  
+- Auto-generated career paths  
+
+### 🌐 **2. Smart City Booking System**
+- .NET MVC  
+- Booking for driving license services  
+- Admin panel + Analytics  
+
+### 📱 **3. Flutter Shop & Login App**
+- Provider state management  
+- Login, product list, details, cart  
+
+### 🚗 **4. Smart Car Control (Bluetooth)**
+- Flutter app  
+- Arduino + HC-05  
+
+### 👟 **5. Nike Website**
+- HTML + CSS + JS  
+- Responsive UI/UX  
+
+---
+
+## ⚙️ Tech Stack Icons
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,js,python,dotnet,figma,arduino,mysql,sqlite,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+### ⭐ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BelalMohamed&show_icons=true&theme=tokyonight"/>
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BelalMohamed&theme=tokyonight"/>
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BelalMohamed&theme=tokyonight&margin-w=15"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: Coming soon  
+- 🐙 GitHub: **BelalMohamed**  
+- 📧 Email: **belal.dev@example.com**  
+- 🌍 Portfolio: Coming soon  
+
+---
+
+<h3 align="center">⭐ If you like my work, don’t forget to give a star ⭐</h3>
