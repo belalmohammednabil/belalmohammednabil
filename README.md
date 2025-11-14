@@ -1,124 +1,183 @@
-<!-- HEADER NAME ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=600&color=00E7FF&lines=Belal+Mohamed;Flutter+Developer;Front-End+Engineer;AI+%26+Software+Enthusiast" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YourName's Awesome README</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #1e1e2f, #2a2a4a);
+            color: #e0e0e0;
+            transition: background 0.3s, color 0.3s;
+        }
+        .light-theme {
+            background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+            color: #333;
+        }
+        h2 {
+            color: #6ab0f3;
+            border-bottom: 2px solid #6ab0f3;
+            padding-bottom: 10px;
+            animation: fadeIn 1s ease-in;
+        }
+        a {
+            color: #ff79c6;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        a:hover {
+            color: #bd93f9;
+        }
+        .badge {
+            margin: 5px;
+            transition: transform 0.2s;
+        }
+        .badge:hover {
+            transform: scale(1.1);
+        }
+        .tool-icon {
+            margin: 5px;
+            transition: transform 0.2s;
+        }
+        .tool-icon:hover {
+            transform: rotate(360deg);
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+            animation: slideIn 0.5s ease-in;
+        }
+        details {
+            background: #2a2a4a;
+            padding: 10px;
+            border-radius: 8px;
+            margin: 10px 0;
+        }
+        summary {
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #6ab0f3;
+            color: #fff;
+            border: none;
+            padding: 10px;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .theme-toggle:hover {
+            background: #ff79c6;
+        }
+        .gif {
+            float: right;
+            margin-left: 20px;
+            border-radius: 8px;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        @keyframes slideIn {
+            from { transform: translateX(-20px); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            .gif {
+                float: none;
+                margin: 10px auto;
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙</button>
+    <h2>Hey 👋, I'm <a href="https://yourwebsite.com">YourName</a></h2>
+    <p>
+        I'm a passionate software engineer at <strong><a href="https://yourcompany.com">YourCompany</a></strong> based in 🌍 YourCity. 
+        Currently, I'm building awesome Flutter apps, cooking some delicious recipes, and mastering strategies in my favorite games! 🚀
+    </p>
+    <p>
+        <a href="https://yourwebsite.com"><img class="badge" src="https://img.shields.io/badge/-yourwebsite.com-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://yourwebsite.com" alt="Website Badge"></a>
+        <a href="https://medium.com/@yourusername"><img class="badge" src="https://img.shields.io/badge/-@yourusername-14c767?style=flat-square&labelColor=14c767&logo=Medium&link=https://medium.com/@yourusername" alt="Medium Badge"></a>
+        <a href="https://www.linkedin.com/in/yourusername/"><img class="badge" src="https://img.shields.io/badge/-@yourusername-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/yourusername/" alt="LinkedIn Badge"></a>
+        <a href="https://dev.to/yourusername"><img class="badge" src="https://img.shields.io/badge/-@yourusername-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&link=https://dev.to/yourusername" alt="DevTo Badge"></a>
+        <a href="https://open.spotify.com/user/yourusername"><img class="badge" src="https://img.shields.io/badge/-@YourName-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/yourusername" alt="Spotify Badge"></a>
+    </p>
+    <p>🍎 Keep coding and stay awesome! 🍎</p>
+    <img class="gif" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Coding GIF" />
+    
+    <h2>⚡️ A Few Quick Facts</h2>
+    <ul>
+        <li>🔭 I’m currently working on <a href="https://github.com/yourusername/yourproject">YourProject</a>.</li>
+        <li>🧐 Learning about <strong>Flutter</strong>, <strong>Distributed Systems</strong>, and <strong>Machine Learning</strong>.</li>
+        <li>👨‍💻 Check out my projects on <a href="https://github.com/yourusername">GitHub</a>.</li>
+        <li>📝 I occasionally write on <a href="https://blog.yourwebsite.com">my blog</a>.</li>
+        <li>💬 Talk to me about <strong>Flutter, Dart, cloud computing, and game dev</strong>.</li>
+        <li>📙 View my <a href="https://yourwebsite.com/resume.pdf">resume</a>.</li>
+        <li>🎉 Fun Fact: أنا بتكلم عربي كمان! 😎</li>
+    </ul>
+    
+    <h2>✒️ Recent Posts</h2>
+    <details>
+        <summary>Explore</summary>
+        <ul>
+            <li><a target="_blank" href="https://blog.yourwebsite.com/post1">Building Awesome Flutter Apps — October 15, 2025</a></li>
+            <li><a target="_blank" href="https://blog.yourwebsite.com/post2">Dart Tips and Tricks — September 20, 2025</a></li>
+            <li><a target="_blank" href="https://blog.yourwebsite.com/post3">Cloud Computing Made Simple — August 10, 2025</a></li>
+            <li><a target="_blank" href="https://blog.yourwebsite.com/post4">Game Dev with Unity — July 5, 2025</a></li>
+            <li><a target="_blank" href="https://blog.yourwebsite.com/post5">Why I Love Coding — June 1, 2025</a></li>
+        </ul>
+    </details>
+    <p><a target="_blank" href="https://blog.yourwebsite.com">Read More</a></p>
+    
+    <h2>🚀 Some Tools I Use</h2>
+    <p align="left">
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="25" height="25" />
+        <img class="tool-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="25" height="25" />
+        <!-- Add more icons here based on your input -->
+    </p>
+    
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical" alt="yourusername" />
+    </p>
+    <p>
+        <a href="http://hits.dwyl.com/yourusername/yourusername.svg?style=flat-square">
+            <img src="http://hits.dwyl.com/yourusername/yourusername.svg?style=flat-square" alt="HitCount">
+        </a>
+    </p>
 
-<!-- ROBOT -->
-<p align="center">
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="180"/>
-</p>
-
----
-
-# 👋 Hey, I'm **Belal Mohamed**
-
-<table>
-  <tr>
-    <!-- ABOUT -->
-    <td width="60%" valign="top">
-      <h2>💫 About Me</h2>
-      <p>
-        I'm a passionate <strong>Flutter Developer</strong> and an evolving 
-        <strong>Front-End Engineer</strong> who loves building real-world applications 
-        with clean UI and smart features.
-      </p>
-
-      <p>
-        I work across multiple technologies including Flutter, Dart, React, .NET MVC, 
-        SQL Server, Python, Arduino, and UI/UX Design.
-      </p>
-
-      <ul>
-        <li>🚀 Focus: Flutter + React Web</li>
-        <li>🧠 Strong in C, Java, Python, C#, SQL</li>
-        <li>📱 Built Smart City System, Smart Car, Weather App, Shop App</li>
-        <li>🧩 Designed EVA Chatbot UI + Nike Website</li>
-        <li>👨‍🏫 I teach programming & help devs grow</li>
-        <li>☕ Powered by caffeine</li>
-      </ul>
-    </td>
-
-    <!-- GIF -->
-    <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" style="border-radius:10px;" />
-      <br/><br/>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=00FF90&center=true&vCenter=true&width=300&lines=AI+Engineer;Follow+to+Get+New+Updates" />
-    </td>
-  </tr>
-</table>
-
----
-
-# 🚀 **Languages & Skills**
-
-### **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
-
-### **Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-DotNet-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-</p>
-
----
-
-# 📌 **Featured Projects**
-
-### 🔹 **TrackWise.360 – Educational Analytics System**
-- Python + SQL Server + .NET MVC  
-- Student personality analysis (MBTI, DISC, Raven)  
-- Smart reports + career recommendations  
-
-### 🔹 **Smart City Booking System**
-- .NET MVC + SQL  
-- License services booking  
-- Data analysis dashboard  
-- Authentication + Admin panel  
-
-### 🔹 **Flutter Shop App**
-- Provider state management  
-- Product list + details + cart  
-
-### 🔹 **Smart Car (Bluetooth Control – HC-05)**
-- Arduino + Flutter  
-- Real-time control  
-
-### 🔹 **Nike Website**
-- HTML + CSS + JS  
-- Fully responsive UI  
-
----
-
-# 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelalMohamed&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BelalMohamed&theme=tokyonight" width="48%" />
-</p>
-
----
-
-# 🌐 **Social Links**
-
-- GitHub: **BelalMohamed**  
-- LinkedIn: Coming Soon  
-- Instagram: Coming Soon  
-- Email: **belal.dev@example.com**
-
----
-
-<p align="center">
-  ⭐ If you like my work, don't forget to give a star! ⭐
-</p>
+    <script>
+        function toggleTheme() {
+            document.body.classList.toggle('light-theme');
+        }
+    </script>
+</body>
+</html>
