@@ -1,9 +1,17 @@
-<h2 align="center">Hey 👋, I'm Belal Mohammed</h2>
+<!-- Advanced About Me Section -->
+<div align="center" style="border: 2px solid #4E69C8; border-radius: 15px; padding: 30px; max-width: 800px; margin: 0 auto; background-color: #f5f7ff;">
+  <h2 style="margin-bottom: 15px;">👋 Hi, I'm Belal Mohammed</h2>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <p style="font-size: 16px; line-height: 1.6; color: #333; max-width: 500px; text-align: left;">
+      I’m a passionate Software Engineer focused on <strong>Front-End & Full-Stack Development</strong>. 
+      I build advanced web apps, explore new frameworks, dive into cloud technologies ☁️, 
+      and love robotics 🤖. Always learning, experimenting, and creating cool side projects.
+    </p>
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Animated GIF"/>
+  </div>
+</div>
 
-<!-- About Me Section -->
-<p align="center">
-  <strong>About Me:</strong> I’m a passionate Software Engineer focused on Front-End & Full-Stack Development. I build advanced web apps, explore new frameworks, dive into cloud technologies ☁️, and love robotics 🤖. Always learning, experimenting, and creating cool side projects.
-</p>
+<h2 align="center">Hey 👋, I'm Belal Mohammed</h2>
 
 <p align="center">
   I'm currently a software engineer passionate about Front-End & Full-Stack Development. I love building advanced web apps, exploring new frameworks, and diving into cloud technologies ☁️. Also a fan of robotics 🤖 and side projects.
@@ -14,10 +22,6 @@
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge"></a>
   <a href="https://github.com/yourgithub"><img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=GitHub" alt="GitHub Badge"></a>
   <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter" alt="Twitter Badge"></a>
-</p>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
 </p>
 
 ---
