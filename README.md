@@ -1,21 +1,12 @@
 <!-- Advanced About Me Section -->
 <div align="center" style="border: 2px solid #4E69C8; border-radius: 15px; padding: 30px; max-width: 800px; margin: 0 auto; background-color: #f5f7ff;">
   <h2 style="margin-bottom: 15px;">👋 Hi, I'm Belal Mohammed</h2>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <p style="font-size: 16px; line-height: 1.6; color: #333; max-width: 500px; text-align: left;">
-      I’m a passionate Software Engineer focused on <strong>Front-End & Full-Stack Development</strong>. 
-      I build advanced web apps, explore new frameworks, dive into cloud technologies ☁️, 
-      and love robotics 🤖. Always learning, experimenting, and creating cool side projects.
-    </p>
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Animated GIF"/>
-  </div>
+  <p style="font-size: 16px; line-height: 1.6; color: #333; max-width: 700px; text-align: center;">
+    I’m a passionate Software Engineer focused on <strong>Front-End & Full-Stack Development</strong>. 
+    I build advanced web apps, explore new frameworks, dive into cloud technologies ☁️, 
+    and love robotics 🤖. Always learning, experimenting, and creating cool side projects.
+  </p>
 </div>
-
-<h2 align="center">Hey 👋, I'm Belal Mohammed</h2>
-
-<p align="center">
-  I'm currently a software engineer passionate about Front-End & Full-Stack Development. I love building advanced web apps, exploring new frameworks, and diving into cloud technologies ☁️. Also a fan of robotics 🤖 and side projects.
-</p>
 
 <p align="center">
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/-Website-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox" alt="Website Badge"></a>
@@ -27,13 +18,18 @@
 ---
 
 ## ⚡️ A Few Quick Facts
-- 🔭 I’m currently working on <a href="https://github.com/yourgithub/project">My Project</a>.
-- 🧐 Learning advanced <strong>React, Node.js, TypeScript</strong>, <strong>Cloud Architectures</strong>, <strong>Serverless Systems</strong>, and <strong>ML</strong>.
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/yourgithub">GitHub</a>.
-- 📝 I write articles on <a href="https://your-blog.com">my blog</a>.
-- 💬 Ping me about <strong>React, JavaScript, Cloud, Security, DevOps</strong>.
-- 📙 Check out my <a href="https://your-website.com/resume.pdf">resume</a>.
-- 🤝 Collaboration Tools: Git, Jira, Slack, Trello, Notion.
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <ul style="max-width: 500px;">
+    <li>🔭 I’m currently working on <a href="https://github.com/yourgithub/project">My Project</a>.</li>
+    <li>🧐 Learning advanced <strong>React, Node.js, TypeScript</strong>, <strong>Cloud Architectures</strong>, <strong>Serverless Systems</strong>, and <strong>ML</strong>.</li>
+    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yourgithub">GitHub</a>.</li>
+    <li>📝 I write articles on <a href="https://your-blog.com">my blog</a>.</li>
+    <li>💬 Ping me about <strong>React, JavaScript, Cloud, Security, DevOps</strong>.</li>
+    <li>📙 Check out my <a href="https://your-website.com/resume.pdf">resume</a>.</li>
+    <li>🤝 Collaboration Tools: Git, Jira, Slack, Trello, Notion.</li>
+  </ul>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Animated GIF"/>
+</div>
 
 ---
 
