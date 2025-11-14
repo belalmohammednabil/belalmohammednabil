@@ -18,8 +18,6 @@ I'm a Software Engineer passionate about Front-End & Full-Stack Development. I e
   <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter" alt="Twitter"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
-
 <h2>⚡️ Quick Facts</h2>
 <ul>
   <li>🔭 Currently working on <a href="https://github.com/yourgithub/project">My Project</a>.</li>
@@ -55,8 +53,16 @@ I'm a Software Engineer passionate about Front-End & Full-Stack Development. I e
 
 ---
 
+## 🤖 Robotics & AI Fun
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
+  <br>
+  <i>AI & Robotics in action 🤖✨</i>
+</p>
+
+---
+
 ## 👾 Contributions (Pacman Theme)
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
