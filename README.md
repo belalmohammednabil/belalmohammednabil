@@ -1,105 +1,119 @@
-<h1 align="center">Hey 👋, I'm <strong>Belal Mohamed</strong></h1>
-<h3 align="center">Flutter Developer | Future Front-End Engineer | UI/UX Enthusiast</h3>
+<!-- ============================= -->
+<!--       BELAL MOHAMED BANNER    -->
+<!-- ============================= -->
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-</p>
-
----
-
-## 🚀 About Me  
-I'm a passionate **Flutter Developer** with a growing focus on **Front-End Engineering** and system design.  
-I love building **clean UIs**, **smart systems**, and **real-world applications** using modern technologies.
-
-- 🔭 Currently working on **Flutter + React**  
-- 🛠 Built real projects across **.NET, SQL Server, Python, UI/UX & Embedded Systems**  
-- 👨‍🏫 I mentor others in programming  
-- 🎯 My goal: Become a **Full Front-End Engineer**  
-- ☕ Fun fact: I fix bugs faster with coffee
+<pre align="center">
+██████╗ ███████╗██╗     █████╗ ██╗     
+██╔══██╗██╔════╝██║    ██╔══██╗██║     
+██████╔╝█████╗  ██║    ███████║██║     
+██╔══██╗██╔══╝  ██║    ██╔══██║██║     
+██║  ██║███████╗███████╗██║  ██║███████╗
+╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝
+     🔥 Flutter & Front-End Engineer 🔥
+</pre>
 
 ---
 
-## 🧠 Skills Overview  
-### 💻 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
+## <h2 align="center">👋 Hey there, I'm <strong>Belal Mohamed</strong></h2>
 
-### 🛠 **Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+I'm a passionate <strong>Flutter Developer</strong> & a growing <strong>Front-End Engineer</strong>, building clean UI, scalable systems, and smart real-world applications.
+
+I’ve worked with **Flutter, .NET MVC, SQL Server, React, UI/UX, Arduino systems, and automation projects**.  
+I create systems, teach programming, design interfaces, and currently building my own **developer community**.
 
 ---
 
-## 💼 Projects
-### 🚀 **1. TrackWise.360 – Educational Analytics System**
-- Python + SQL Server  
-- .NET MVC Dashboard  
-- Smart student analysis (MBTI – DISC – Raven)  
-- Auto-generated career paths  
+## 🚀 **About Me**
+- 🔭 Currently leveling up in **Flutter** + **React Engineering**  
+- 🌍 Built real systems for education, smart cities, automation, and company chatbots  
+- 🎨 Designed UI/UX for **Nike Website**, **EVA Chatbot**, **Smart Services Dashboard**  
+- 🧠 Interested in **System Design, Clean Architecture, State Management, UI Engineering**  
+- ☕ Fun Fact: I debug faster when there's coffee next to me.
 
-### 🌐 **2. Smart City Booking System**
-- .NET MVC  
-- Booking for driving license services  
-- Admin panel + Analytics  
+---
 
-### 📱 **3. Flutter Shop & Login App**
-- Provider state management  
-- Login, product list, details, cart  
+## 🎯 **What I Can Do**
+### ✔️ Mobile Apps  
+- Flutter Apps (Auth – Shop – API – Providers – Car Bluetooth – UI Kits)
 
-### 🚗 **4. Smart Car Control (Bluetooth)**
-- Flutter app  
-- Arduino + HC-05  
+### ✔️ Web Development  
+- HTML, CSS, JS, React  
+- Full .NET MVC Systems (Admin Panels, Auth, SQL)
 
-### 👟 **5. Nike Website**
+### ✔️ Back-End & Databases  
+- C#, Python, SQL Server, MySQL  
+- Data Analysis & Reports
+
+### ✔️ Hardware  
+- Arduino + Sensors + Bluetooth Systems
+
+---
+
+# 💼 **Projects I Built**
+
+### 🔹 **1. TrackWise.360 – Educational Analytics System**
+- Python + SQL + .NET MVC  
+- Smart reports, MBTI/DISC/Raven tests  
+- Career recommendations  
+
+### 🔹 **2. Smart City Booking System**
+- License booking  
+- Admin dashboard  
+- SQL + .NET MVC  
+
+### 🔹 **3. Flutter Applications**
+- Shop App (Provider)  
+- Login UI  
+- Weather App  
+- Smart Bluetooth Car  
+
+### 🔹 **4. Nike Front-End Website**
 - HTML + CSS + JS  
-- Responsive UI/UX  
+- Fully responsive + animations  
 
 ---
 
-## ⚙️ Tech Stack Icons
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,js,python,dotnet,figma,arduino,mysql,sqlite,github,vscode" />
+# 🔥 **Tech Stack (Advanced)**
+
+### **Languages**
+<p>
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-EC2025?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### **Frameworks & Tools**
+<p>
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet" />
+<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
+<img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-### ⭐ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelalMohamed&show_icons=true&theme=tokyonight"/>
-</p>
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BelalMohamed&theme=tokyonight"/>
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BelalMohamed&theme=tokyonight&margin-w=15"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BelalMohamed&show_icons=true&hide_title=false&count_private=true&theme=react" height="170px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BelalMohamed&theme=react" height="170px" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: Coming soon  
-- 🐙 GitHub: **BelalMohamed**  
-- 📧 Email: **belal.dev@example.com**  
-- 🌍 Portfolio: Coming soon  
+# 📫 Connect With Me
+- 💼 LinkedIn: Coming Soon  
+- 💙 Instagram: Coming Soon  
+- 💻 GitHub: **BelalMohamed**  
+- 📧 Email: belal.dev@example.com  
 
 ---
 
-<h3 align="center">⭐ If you like my work, don’t forget to give a star ⭐</h3>
+<p align="center">
+⭐ If you like my work, don’t forget to give a star! ⭐
+</p>
