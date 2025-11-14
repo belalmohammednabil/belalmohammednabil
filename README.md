@@ -1,68 +1,69 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/q5hLHL5YHaVvK/giphy.gif" width="220" />
-  <br>
-  <i>Walking... Initializing Profile 👣</i>
+<p align="center"> 
+  <img src="https://media.giphy.com/media/q5hLHL5YHaVvK/giphy.gif" width="220" /> 
+  <br> 
+  <i>Walking... Initializing Profile 👣</i> 
 </p>
 
 ---
 
 <h2>Hey 👋, I'm Belal Mohammed</h2>
+
 <p>
-I'm a Software Engineer passionate about Front-End & Full-Stack Development. I enjoy building advanced web apps, exploring new frameworks, cloud technologies ☁️, and robotics 🤖. Also a fan of AI and smart automation.
+ I'm a Software Engineer passionate about Front-End & Full-Stack Development. 
+ I enjoy building advanced web apps, exploring new frameworks, cloud technologies ☁️, and robotics 🤖. 
+ Also a fan of AI and smart automation. 
 </p>
 
 <p>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/-Website-4E69C8?style=flat-square&logo=Firefox" alt="Website"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn" alt="LinkedIn"></a>
-  <a href="https://github.com/yourgithub"><img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=GitHub" alt="GitHub"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter" alt="Twitter"></a>
+ <a href="https://your-website.com"><img src="https://img.shields.io/badge/-Website-4E69C8?style=flat-square&logo=Firefox" alt="Website"></a>
+ <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn" alt="LinkedIn"></a>
+ <a href="https://github.com/yourgithub"><img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=GitHub" alt="GitHub"></a>
+ <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter" alt="Twitter"></a>
 </p>
+
+<!-- 🔥 New replacement for robot (Cool coding GIF) -->
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" />
 
 <h2>⚡️ Quick Facts</h2>
+
 <ul>
-  <li>🔭 Currently working on <a href="https://github.com/yourgithub/project">My Project</a>.</li>
-  <li>🧐 Learning advanced <strong>React, Node.js, TypeScript</strong>, <strong>Cloud Architectures</strong>, <strong>Serverless Systems</strong>, <strong>ML & AI</strong>.</li>
-  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yourgithub">GitHub</a>.</li>
-  <li>📝 Writing articles on <a href="https://your-blog.com">my blog</a>.</li>
-  <li>💬 Ping me about <strong>React, JS, Cloud, Security, DevOps, Robotics</strong>.</li>
-  <li>📙 Check out my <a href="https://your-website.com/resume.pdf">resume</a>.</li>
-  <li>🤝 Collaboration Tools: Git, Jira, Slack, Trello, Notion.</li>
+ <li>🔭 Currently working on <a href="https://github.com/yourgithub/project">My Project</a>.</li>
+ <li>🧐 Learning advanced <strong>React, Node.js, TypeScript</strong>, <strong>Cloud Architectures</strong>, <strong>Serverless Systems</strong>, <strong>ML & AI</strong>.</li>
+ <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yourgithub">GitHub</a>.</li>
+ <li>📝 Writing articles on <a href="https://your-blog.com">my blog</a>.</li>
+ <li>💬 Ping me about <strong>React, JS, Cloud, Security, DevOps, Robotics</strong>.</li>
+ <li>📙 Check out my <a href="https://your-website.com/resume.pdf">resume</a>.</li>
+ <li>🤝 Collaboration Tools: Git, Jira, Slack, Trello, Notion.</li>
 </ul>
 
 ---
 
 ## 🚀 Skills & Tools I Use
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="25" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="25" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="25" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" />
-</p>
-
----
-
-## 🤖 Robotics & AI Fun
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
-  <br>
-  <i>AI & Robotics in action 🤖✨</i>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25" />
+ <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="25" />
+ <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="25" />
+ <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="25" />
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" />
 </p>
 
 ---
 
 ## 👾 Contributions (Pacman Theme)
+
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
