@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/q5hLHL5YHaVvK/giphy.gif" width="220" />
-  <br>
-  <i>Walking... Initializing Profile 👣</i>
-</p>
 
----
 
 <h2 align="center">Hey 👋, I'm Belal Mohammed</h2>
 <p align="center">
