@@ -2,7 +2,7 @@
 <div align="center" style="border: 2px solid #4E69C8; border-radius: 15px; padding: 30px; max-width: 800px; margin: 0 auto; background-color: #f5f7ff;">
   <h2 style="margin-bottom: 15px;">👋 Hi, I'm Belal Mohammed</h2>
   <p style="font-size: 16px; line-height: 1.6; color: #333; max-width: 700px; text-align: center;">
-    I’m a passionate Software Engineer focused on <strong>Front-End & Full-Stack Development</strong>. 
+    I’m a passionate Software developer focused on <strong>Front-End & Full-Stack Development</strong>. 
     I build advanced web apps, explore new frameworks, dive into cloud technologies ☁️, 
     and love robotics 🤖. Always learning, experimenting, and creating cool side projects.
   </p>
