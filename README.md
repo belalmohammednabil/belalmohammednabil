@@ -5,52 +5,70 @@
   <b>ASPIRING SOFTWARE ENGINEER 🚀</b><br><br>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
-</h2> 
+</h2>
 
-<h2 align="left">🛠 Technologies and Tools I use:</h2>
+---
+
+<h2 align="left">🛠 Technical Skills & Tools:</h2>
 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    </a>
-    <a href="https://react.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
-    </a>
+
+<!-- Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+
+<!-- Frontend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+
+<!-- Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+
+<!-- Database -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+<!-- DevOps & Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+
+<!-- Cloud -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+---
 
-- 💻 Front-End Developer with a strong Software Engineering foundation  
-- ⚛️ Specialized in React & Modern UI Architecture  
-- 🏗 Experienced with .NET MVC & SQL Server  
-- 🤖 Built a Multi-Tier ChatBot system for Eva  
-- 📊 Creator of TracKWise.360 – Data-driven student analysis platform  
-- 🎯 Passionate about Clean Code, Performance & Scalable Systems  
-- 🚀 Continuously learning and building real-world projects  
+<h2 align="left">👨🏻‍💻 Professional Summary:</h2>
+
+I am an Aspiring Software Engineer with a strong foundation in software architecture, system design, and full-stack development.  
+My focus is not only on building applications — but on engineering scalable, maintainable, and efficient systems.
+
+I have experience working with modern front-end technologies like React, along with backend development using .NET and Node.js. I also work with databases, cloud platforms, and DevOps tools to build complete, production-ready solutions.
+
+Beyond software, I have a strong interest in Hardware Systems and low-level computing concepts.  
+I enjoy understanding how systems operate from the hardware layer up to high-level application architecture.
+
+Additionally, I am passionate about learning new programming languages and continuously expanding my technical depth.
+
+---
+
+<h2 align="left">🎯 Core Interests:</h2>
+
+- Software Engineering & System Architecture  
+- Front-End Engineering (React & UI Architecture)  
+- Backend Development & API Design  
+- Hardware & Embedded Systems Concepts  
+- Cloud Computing & DevOps  
+- Continuous Learning & Technical Growth  
+
+---
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
@@ -58,6 +76,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
+
+---
 
 <h2 align="left">🤝 Let's Connect:</h2>
 
