@@ -1,85 +1,98 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Belal Mohammed Nabil <br>
-  <b>ASPIRING SOFTWARE ENGINEER 🚀</b><br><br>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2>
+<h1 align="center">
+  Hi there 👋 I'm Belal Mohammed Nabil
+</h1>
 
----
+<h3 align="center">
+  🚀 Aspiring Software Developer
+</h3>
 
-<h2 align="left">🛠 Technical Skills & Tools:</h2>
-
-<p align="left">
-
-<!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-
-<!-- Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-
-<!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-
-<!-- Database -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-
-<!-- DevOps & Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-
-<!-- Cloud -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" />
 </p>
 
 ---
 
-<h2 align="left">👨🏻‍💻 Professional Summary:</h2>
+## 👨‍💻 Professional Profile
 
-I am an Aspiring Software Engineer with a strong foundation in software architecture, system design, and full-stack development.  
-My focus is not only on building applications — but on engineering scalable, maintainable, and efficient systems.
+I am an **Aspiring Software Engineer** with a strong passion for building scalable, efficient, and well-architected systems.  
+My focus goes beyond writing code — I aim to understand how software works from the hardware layer up to full-stack application architecture.
 
-I have experience working with modern front-end technologies like React, along with backend development using .NET and Node.js. I also work with databases, cloud platforms, and DevOps tools to build complete, production-ready solutions.
-
-Beyond software, I have a strong interest in Hardware Systems and low-level computing concepts.  
-I enjoy understanding how systems operate from the hardware layer up to high-level application architecture.
-
-Additionally, I am passionate about learning new programming languages and continuously expanding my technical depth.
+💡 I enjoy solving real-world problems through clean code and structured engineering thinking.  
+⚙️ I have a strong interest in **Hardware Systems** and low-level computing concepts.  
+🌍 I am passionate about learning new programming languages and continuously expanding my technical depth.
 
 ---
 
-<h2 align="left">🎯 Core Interests:</h2>
+## 🛠 Technical Skills
 
-- Software Engineering & System Architecture  
-- Front-End Engineering (React & UI Architecture)  
-- Backend Development & API Design  
-- Hardware & Embedded Systems Concepts  
-- Cloud Computing & DevOps  
-- Continuous Learning & Technical Growth  
+### 💻 Programming Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+</p>
+
+### ⚛️ Frontend Development
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+### 🖥 Backend & Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+</p>
 
 ---
 
-<h2 align="left">📊 GitHub Stats:</h2>
+## 🎯 Core Interests
 
-<p align="left">
+- 🏗 Software Architecture & System Design  
+- ⚛️ Front-End Engineering (React & UI Systems)  
+- 🔌 Hardware & Embedded Concepts  
+- ☁️ Cloud Computing  
+- 📚 Continuous Learning & Technical Growth  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<h2 align="left">🤝 Let's Connect:</h2>
+## 🤝 Connect With Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Belal%20Mohammed%20Nabil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_LINK)](YOUR_LINKEDIN_LINK)
-[![GitHub Badge](https://img.shields.io/badge/-Belal%20GitHub-black?style=flat-square&logo=github&logoColor=white&link=YOUR_GITHUB_LINK)](YOUR_GITHUB_LINK)
+<p>
+<a href="https://www.linkedin.com/in/belal-mohammed-nabil-4a2471326" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Belal%20Mohammed%20Nabil-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.facebook.com/belalmano.fahmy" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Belal%20Mohammed%20Nabil-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ "Engineering is not just coding — it's designing systems that last."
+</p>
