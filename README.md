@@ -70,15 +70,6 @@ My focus goes beyond writing code — I aim to understand how software works fro
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
