@@ -1,89 +1,71 @@
-<h1 align="center">
-  Hi there 👋 I'm Belal Mohammed Nabil
-</h1>
-
-<h3 align="center">
-  🚀 Aspiring Software Developer
-</h3>
+<h1 align="center">Belal Mohammed Nabil</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" />
+  <b>Software Developer · Data &amp; AI @ EVA Pharma</b><br/>
+  Full-stack web · AI-powered products · Embedded systems
 </p>
-
----
-
-## 👨‍💻 Professional Profile
-
-I am an **Aspiring Software Engineer** with a strong passion for building scalable, efficient, and well-architected systems.  
-My focus goes beyond writing code — I aim to understand how software works from the hardware layer up to full-stack application architecture.
-
-💡 I enjoy solving real-world problems through clean code and structured engineering thinking.  
-⚙️ I have a strong interest in **Hardware Systems** and low-level computing concepts.  
-🌍 I am passionate about learning new programming languages and continuously expanding my technical depth.
-
----
-
-## 🛠 Technical Skills
-
-### 💻 Programming Languages
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-</p>
-
-### ⚛️ Frontend Development
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</p>
-
-### 🖥 Backend & Databases
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
-</p>
-
----
-
-## 🎯 Core Interests
-
-- 🏗 Software Architecture & System Design  
-- ⚛️ Front-End Engineering (React & UI Systems)  
-- 🔌 Hardware & Embedded Concepts  
-- ☁️ Cloud Computing  
-- 📚 Continuous Learning & Technical Growth  
-
----
-
-## 🤝 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/belal-mohammed-nabil-4a2471326" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Belal%20Mohammed%20Nabil-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.facebook.com/belalmano.fahmy" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Belal%20Mohammed%20Nabil-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-</p>
-
----
 
 <p align="center">
-✨ "Engineering is not just coding — it's designing systems that last."
+  <a href="https://www.linkedin.com/in/belal-mohammed-nabil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://belalmohammednabil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:belalmohammednabil@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Giza%2C%20Egypt-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+---
+
+### About
+
+I'm a Software Developer on the **Data & AI team at EVA Pharma**, building software and AI-driven solutions that support real business operations in the pharmaceutical industry.
+
+I graduated from the **EVA International School of Applied Technology** (Software Development, 2023–2026), a three-year applied program run in partnership with EVA Pharma, where I worked on web, embedded and robotics projects and led the school's PHP team.
+
+- 🏢 Currently: Software Developer, Data & AI — EVA Pharma
+- 🧠 Working with: React, TypeScript, C#, SQL, Supabase, LLM integrations
+- 🔌 Also into: embedded systems and hardware prototyping
+
+---
+
+### Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Eva Cosmetics](https://github.com/belalmohammednabil/Eva-Cosmetics-Website)** · [Live demo](https://eva-cosmetics-store.vercel.app/) | Graduation capstone. Full-stack e-commerce store with **Dr. Eva**, an AI skincare consultant (Gemini 2.5 Pro) that diagnoses skin type and recommends products from the live catalog. Secure server-side checkout, Row-Level Security, admin dashboard, 5 languages. | React · TypeScript · Tailwind · shadcn/ui · Supabase · Vercel |
+| **[TrackWise](https://github.com/belalmohammednabil/trackwise-future-pathways)** | Educational guidance platform that helps students analyze their academic data and pick suitable academic and career paths. Front-end developer. | React · TypeScript |
+| **[Limitless Hydrate](https://github.com/belalmohammednabil/LimitlessHydrateWebsite)** | UI design and implementation built during a summer internship at the EVA Pharma factory. | React · TypeScript |
+| **[EVA Wise Chat Buddy](https://github.com/belalmohammednabil/eva-wise-chat-buddy)** | AI chat assistant web app. | React · TypeScript |
+| **WeCan — Robotic Prosthetic Hand** | Low-cost robotic prosthetic hand for upper-limb amputees in Egypt. Led hardware design and embedded programming; ~EGP 5,000 cheaper per hand than imported alternatives. Featured in *Akhbar El-Yom* (2024). | Embedded C · Microcontrollers |
+
+---
+
+### Tech Stack
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,py,java,php" alt="Languages"/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,flutter" alt="Frontend"/>
+
+**Backend &amp; Data**<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,supabase,postgres,mysql" alt="Backend"/>
+
+**Tools &amp; Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux,azure,arduino,figma" alt="Tools"/>
+
+---
+
+### Highlights
+
+- 🏆 **1st place, Giza Governorate** — Software track examinations among applied-technology schools (2026)
+- 🇪🇬 Selected by the Office of the Minister of Education to attend **Egypt Forum 2026**
+- 🚀 **NASA Space Apps Challenge** participant (2024)
+- 📺 Featured on Al-Masry Channel for Technical Education (2026)
+
+---
+
+### GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=belalmohammednabil&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalmohammednabil&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
