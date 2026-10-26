@@ -41,23 +41,23 @@ I graduated from the **EVA International School of Applied Technology** (Softwar
 ### Tech Stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,py,java,php" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,php" alt="Languages"/>
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,flutter" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="Frontend"/>
 
 **Backend &amp; Data**<br/>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,supabase,postgres,mysql" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=dotnet,supabase,postgres,mysql" alt="Backend"/>
 
-**Tools &amp; Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux,azure,arduino,figma" alt="Tools"/>
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,arduino,figma" alt="Tools"/>
 
 ---
 
 ### Highlights
 
 - 🏆 **1st place, Giza Governorate** — Software track examinations among applied-technology schools (2026)
-- 🇪🇬 Selected by the Office of the Minister of Education to attend **Egypt Forum 2026**
+- 🎖️ Selected by the Office of the Minister of Education to attend **Egypt Forum 2026**
 - 🚀 **NASA Space Apps Challenge** participant (2024)
 - 📺 Featured on Al-Masry Channel for Technical Education (2026)
 
